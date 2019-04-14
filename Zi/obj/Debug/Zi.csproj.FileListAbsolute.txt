@@ -1,0 +1,29 @@
+C:\Users\alber\source\repos\Zi\Zi\bin\Debug\Zi.dll
+C:\Users\alber\source\repos\Zi\Zi\bin\Debug\Zi.pdb
+C:\Users\alber\source\repos\Zi\Zi\bin\Debug\GamemodeManager.dll
+C:\Users\alber\source\repos\Zi\Zi\bin\Debug\Smod2.dll
+C:\Users\alber\source\repos\Zi\Zi\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\alber\source\repos\Zi\Zi\bin\Debug\UnityEngine.dll
+C:\Users\alber\source\repos\Zi\Zi\obj\Debug\Zi.csprojAssemblyReference.cache
+C:\Users\alber\source\repos\Zi\Zi\obj\Debug\Zi.csproj.CoreCompileInputs.cache
+C:\Users\alber\source\repos\Zi\Zi\obj\Debug\Zi.csproj.CopyComplete
+C:\Users\alber\source\repos\Zi\Zi\obj\Debug\Zi.dll
+C:\Users\alber\source\repos\Zi\Zi\obj\Debug\Zi.pdb
+C:\Users\alber\Desktop\Zi\Zi\bin\Debug\Zi.dll
+C:\Users\alber\Desktop\Zi\Zi\bin\Debug\Zi.pdb
+C:\Users\alber\Desktop\Zi\Zi\obj\Debug\Zi.csprojAssemblyReference.cache
+C:\Users\alber\Desktop\Zi\Zi\obj\Debug\Zi.csproj.CoreCompileInputs.cache
+C:\Users\alber\Desktop\Zi\Zi\obj\Debug\Zi.csproj.CopyComplete
+C:\Users\alber\Desktop\Zi\Zi\obj\Debug\Zi.dll
+C:\Users\alber\Desktop\Zi\Zi\obj\Debug\Zi.pdb
+C:\Users\alber\Desktop\Plugins oficiales D\Zi\Zi\bin\Debug\Zi.dll
+C:\Users\alber\Desktop\Plugins oficiales D\Zi\Zi\bin\Debug\Zi.pdb
+C:\Users\alber\Desktop\Plugins oficiales D\Zi\Zi\bin\Debug\GamemodeManager.dll
+C:\Users\alber\Desktop\Plugins oficiales D\Zi\Zi\bin\Debug\Smod2.dll
+C:\Users\alber\Desktop\Plugins oficiales D\Zi\Zi\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\alber\Desktop\Plugins oficiales D\Zi\Zi\bin\Debug\UnityEngine.dll
+C:\Users\alber\Desktop\Plugins oficiales D\Zi\Zi\obj\Debug\Zi.csprojAssemblyReference.cache
+C:\Users\alber\Desktop\Plugins oficiales D\Zi\Zi\obj\Debug\Zi.csproj.CoreCompileInputs.cache
+C:\Users\alber\Desktop\Plugins oficiales D\Zi\Zi\obj\Debug\Zi.csproj.CopyComplete
+C:\Users\alber\Desktop\Plugins oficiales D\Zi\Zi\obj\Debug\Zi.dll
+C:\Users\alber\Desktop\Plugins oficiales D\Zi\Zi\obj\Debug\Zi.pdb
